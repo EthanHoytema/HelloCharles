@@ -77,6 +77,6 @@ server.get("/",blankRouteHandler);
 server.get("/echo/:message",echoRouteHandler);
 server.get("/previousinputs", previousInputsRouteHandler);
 
-server.listen(8080, function () {
+server.listen(process.env.PORT || 8080, function () {
     console.log("listening");
 });
