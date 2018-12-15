@@ -1,0 +1,10 @@
+[
+    {
+        "message": "beans",
+        "timestamp": "weedsdays my dudes"
+    },
+    {
+        "message": "beans 2.0",
+        "timestamp": "10/20/3030"
+    }
+]
